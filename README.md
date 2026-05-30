@@ -1,6 +1,13 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=220&section=header&text=Pramod%20Jogdand&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
 # 👋 Hi, I'm Pramod Jogdand
 
-🚀 AI Enthusiast | Cyber Security Learner | Python Developer
+### 🚀 AI Enthusiast • Cyber Security Learner • Python Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=3FB950&center=true&width=700&lines=AI+Enthusiast;Cyber+Security+Learner;Python+Developer;Open+Source+Explorer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -8,7 +15,7 @@
 
 - 🔭 Working on AI & Automation Projects
 - 🌱 Learning Cyber Security & Python
-- 💻 Interested in Linux, Kali Linux & Open Source
+- 🐧 Interested in Linux & Open Source
 - 🎯 Goal: Build useful tools for people
 - 🇮🇳 Maharashtra, India
 
@@ -39,14 +46,6 @@ Customized utility collection.
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=github_dark)
-
----
-
 ## 🏆 Achievements
 
 - 🚀 AI Projects
@@ -69,17 +68,29 @@ Customized utility collection.
 ## 🎯 2026 Goals
 
 - [ ] Build Advanced AI Assistant
-- [ ] Learn Ethical Cyber Security
+- [ ] Learn Cyber Security Fundamentals
 - [ ] Contribute to Open Source
 - [ ] Launch Personal Project
-- [ ] Grow GitHub Profile
+- [ ] Grow GitHub Community
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=github_dark)
 
 ---
 
 ## 🌐 Connect
 
-GitHub: https://github.com/Prem2868
+- GitHub: https://github.com/Prem2868
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
