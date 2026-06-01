@@ -56,7 +56,34 @@ A professional AI-powered portfolio website featuring a terminal-style interface
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=github_dark)
 ---
 ## 🌐 Connect
-- GitHub: https://github.com/Prem2868
+
+<p align="center">
+  <a href="https://pramod-jogdand.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-pramod--jogdand.pages.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://about.me/pramodjogdand" target="_blank">
+    <img src="https://img.shields.io/badge/About.me-pramodjogdand-00A98F?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Prem2868" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Prem2868-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pramod-jogdand-49a5b8292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pramod%20Jogdand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/PSjogdand" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-PSjogdand-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/impramod_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-impramod__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@pramodjogdand_" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-pramodjogdand__-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://quora.com/profile/Pramod-Jogdand-6" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-Pramod%20Jogdand-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+  </a>
+</p>
+
 ---
 <div align="center">
 ⭐ Thanks for visiting my profile! ⭐
