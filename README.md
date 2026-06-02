@@ -1,29 +1,131 @@
-<h1 align="center">🚀 Pramod Jogdand</h1>
-<h3 align="center">AI | Cybersecurity | Python | Linux</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=3FB950,58A6FF&text=Pramod%20Jogdand&section=header" alt="Pramod Jogdand Animated Header"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;AI+%26+Automation+Builder;Linux+Explorer;Python+Developer" />
-</p>
+<div align="center">
+  <a href="https://github.com/Prem2868">
+    <img src="https://komarev.com/ghpvc/?username=Prem2868&color=green" alt="Profile views">
+  </a>
+  <a href="https://github.com/Prem2868">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Prem2868.Prem2868" alt="Visitor badge">
+  </a>
+</div>
 
----
-
-### 👨‍💻 About Me
-- 🔭 Working on AI & Automation Projects  
-- 🌱 Learning Cybersecurity, Python, CNC Programming  
-- 🎯 Goal: Build useful tools for people  
-- ⚡ Fun fact: I debug life like code 🐍  
-
----
-
-### 🛠️ Tech Stack
-- Languages: Python, Bash, G‑Code  
-- Tools: Kali Linux, Wireshark, Obsidian, Notion  
-- Domains: Cybersecurity, AI, CNC Programming  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&width=430&lines=AI+Enthusiast;Cybersecurity+Learner;Python+Developer;Linux+Explorer;Open+Source+Contributor" alt="Typing SVG">
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem2868&theme=radical" />
-</p>
+<div align="center">
+  <h2>👋 About Me</h2>
+</div>
+
+- 📍 Based in Maharashtra, India  
+- 💻 Currently working on building AI tools and learning Cybersecurity  
+- 🚀 Passionate about open source contributions  
+- 💡 Fun fact: I once debugged a complex network issue using only `ping` and `traceroute`!  
+
+---
+
+<div align="center">
+  <h2>🛠️ Skills</h2>
+</div>
+
+<div align="center">
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" alt="Languages Skills" />
+  <h3>🛠️ Tools</h3>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode,kali" alt="Tools Skills" />
+  <h3>🖥️ Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=github" alt="Platforms Skills" />
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Pramod's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem2868&theme=github_dark&hide_border=true" alt="Pramod's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=github_dark&hide_border=true" alt="Pramod's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Prem2868/Prem2868/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🚀 Projects</h2>
+</div>
+
+- 🤖 [MythosAI-CyberSec](https://github.com/Prem2868/MythosAI-CyberSec): Cybersecurity AI tool  
+- 🌐 [portfolio](https://github.com/Prem2868/portfolio): AI-powered portfolio with terminal UI  
+- 🔍 [network-recon-toolkit](https://github.com/Prem2868/network-recon-toolkit): Network reconnaissance tool  
+
+---
+
+<div align="center">
+  <h2>📚 Currently Learning</h2>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-0d1117?style=for-the-badge&logo=tensorflow&logoColor=white&color=3FB950" alt="AI Badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&color=58A6FF" alt="Cybersecurity Badge">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&color=3FB950" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white&color=58A6FF" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/CNC%20Programming-0d1117?style=for-the-badge&logo=cnc&logoColor=white&color=3FB950" alt="CNC Programming Badge">
+</div>
+
+---
+
+<div align="center">
+  <h2>🎯 2026 Goals</h2>
+</div>
+
+- [ ] Build Advanced AI Assistant  
+- [ ] Master Cybersecurity Fundamentals  
+- [ ] Contribute to Open Source  
+- [ ] Launch Personal Project  
+- [ ] Reach 100 GitHub Followers  
+
+---
+
+<div align="center">
+  <h2>🤝 Connect</h2>
+</div>
+
+<div align="center">
+  <a href="https://pramod-jogdand.pages.dev">
+    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&color=3FB950" alt="Website Badge">
+  </a>
+  <a href="https://linkedin.com/in/pramod-jogdand-49a5b8292">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=58A6FF" alt="LinkedIn Badge">
+  </a>
+  <a href="https://x.com/PSjogdand">
+    <img src="https://img.shields.io/badge/Twitter/X-0d1117?style=for-the-badge&logo=x&logoColor=white&color=3FB950" alt="Twitter/X Badge">
+  </a>
+  <a href="https://instagram.com/impramod_">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white&color=58A6FF" alt="Instagram Badge">
+  </a>
+  <a href="https://youtube.com/@pramodjogdand_">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white&color=3FB950" alt="YouTube Badge">
+  </a>
+  <a href="https://quora.com/profile/Pramod-Jogdand-6">
+    <img src="https://img.shields.io/badge/Quora-0d1117?style=for-the-badge&logo=quora&logoColor=white&color=58A6FF" alt="Quora Badge">
+  </a>
+  <a href="https://github.com/Prem2868">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&color=3FB950" alt="GitHub Badge">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=3FB950,58A6FF&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30" alt="Animated Footer Wave"/>
+  <p>⭐ Star my repos if you find them useful! ⭐</p>
+</div>
