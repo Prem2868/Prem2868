@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&width=430&lines=AI+Enthusiast;Cybersecurity+Learner;Python+Developer;Linux+Explorer;Open+Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&width=430&lines=AI+Enthusiast;Open+Source+Researcher+|+Pune,+India;Python+Developer;Linux+Explorer;Open+Source+Contributor" alt="Typing SVG">
 </div>
 
 ---
@@ -22,7 +22,7 @@
 </div>
 
 - 📍 Based in Maharashtra, India  
-- 💻 Currently working on building AI tools and learning Cybersecurity  
+- 💻 Currently working on conducting AI research and researching Cybersecurity  
 - 🚀 Passionate about open source contributions  
 - 💡 Fun fact: I once debugged a complex network issue using only `ping` and `traceroute`!  
 
@@ -70,28 +70,29 @@
 ---
 
 <div align="center">
-  <h2>📚 Currently Learning</h2>
+  <h2>📚 Research Interests</h2>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI-0d1117?style=for-the-badge&logo=tensorflow&logoColor=white&color=3FB950" alt="AI Badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=kalilinux&logoColor=white&color=58A6FF" alt="Cybersecurity Badge">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white&color=3FB950" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white&color=58A6FF" alt="Linux Badge">
-  <img src="https://img.shields.io/badge/CNC%20Programming-0d1117?style=for-the-badge&logo=cnc&logoColor=white&color=3FB950" alt="CNC Programming Badge">
-</div>
+- Large Language Model Behavior Analysis
+- Cyber Threat Pattern Detection
+- Network Traffic Anomaly Research
+- Intelligent Automation Systems
+- Linux Security Hardening
 
 ---
 
 <div align="center">
-  <h2>🎯 2026 Goals</h2>
+  <h2>🎯 2026 Research Goals</h2>
 </div>
 
-- [ ] Build Advanced AI Assistant  
-- [ ] Master Cybersecurity Fundamentals  
-- [ ] Contribute to Open Source  
-- [ ] Launch Personal Project  
-- [ ] Reach 100 GitHub Followers  
+- [x] Build AI-powered cybersecurity assistant
+- [x] Launch personal research portfolio
+- [x] Publish open source security toolkit
+- [ ] Publish formal research findings on LLM behavior
+- [ ] Contribute peer-reviewed research to open source
+- [ ] Build automated cyber threat detection system
+- [ ] Release v1.0 of MythosAI-CyberSec
+- [ ] Collaborate with other security researchers
 
 ---
 
