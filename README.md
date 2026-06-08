@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Researcher%20%7C%20Cyber%20Threat%20Analysis&descAlignY=55&descColor=ffffff&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternate=Georgia" alt="Header" />
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔬+AI+%26+Cybersecurity+Researcher;🛡️+Cyber+Threat+Pattern+Analysis;🧠+LLM+Behavior+Studies;⚡+Open+Source+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔬+AI+%26+Cybersecurity+Researcher;💻+Open+Source+Enthusiast;🚀+Building+MythosAI+v2" alt="Typing Animation" />
   </a>
 </div>
 
@@ -50,12 +50,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem2868&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -108,6 +108,53 @@
 - [ ] Build automated cyber threat detection system
 - [ ] Release v1.0 of MythosAI-CyberSec
 - [ ] Collaborate with other security researchers
+
+---
+
+<div align="center">
+  <h2>⚡ Currently Working On</h2>
+</div>
+
+- 🏗️ **Building MythosAI v2** - Advanced cybersecurity AI with enhanced threat detection capabilities
+- 📚 **Learning Gemini API** - Exploring advanced LLM capabilities for security research  
+- 📅 **Daily Commits Challenge** - Maintaining consistent contributions to open source projects
+
+---
+
+<div align="center">
+  <h2>📈 2026 Goals Progress</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      
+✅ Build AI cybersecurity assistant
+
+✅ Launch personal research portfolio
+
+✅ Publish open source security toolkit
+    </td>
+    <td width="50%">
+      
+⏳ Publish formal research on LLM behavior
+
+⏳ Build automated cyber threat detection
+
+⏳ Release MythosAI v1.0
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2>🌟 Latest Activity</h2>
+</div>
+
+- ✍️ **Writing on Quora** - Sharing insights about AI, Cybersecurity, and emerging security threats
+- 🔬 **Researching LLM Behavior Patterns** - Analyzing how large language models respond to adversarial prompts  
+- 🛠️ **Contributing to Open Source Security Tools** - Helping secure the developer community through code contributions
 
 ---
 
