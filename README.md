@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternative=JetBrainsMono" alt="Banner" />
 </div>
 
+<div align="center">
+  <img src="about_me.svg" alt="About Me" width="800" style="margin-top: -50px;" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prem2868&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
 </p>
