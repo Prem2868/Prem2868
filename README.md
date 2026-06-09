@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI+Systems+%26+Cyber+Threat+Analysis;Founder+%40Prem-labs+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Founder+%40PremLabs" alt="Animated Banner" />
 </div>
 
 
@@ -25,15 +25,18 @@
 
 ## 👋 About Me
 
-* 🔐 Profession: Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
-* 🐧 Linux: Developer & Power User
-* 🤖 Focus: Security Research & LLM Behavior Analysis
-* 🌐 Google for Developers member
-* 📍 Location: Pune, Maharashtra, India
+* 🔐 **Profession:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
+* 🐧 **Expertise:** Linux Development & Power User
+* 🤖 **Focus:** Security Research & LLM Behavior Analysis
+* 🌐 **Community:** Google for Developers Member
+* 📍 **Location:** Pune, Maharashtra, India
 
 ---
 
 ## 🛠️ Skills
+
+### Programming Languages & Technologies
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,14 +45,23 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </div>
+
+### Cybersecurity & AI
+<div align="center">
+
   <img src="https://img.shields.io/badge/Network_Security-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
   <img src="https://img.shields.io/badge/Threat_Analysis-FF6F00?style=for-the-badge&logo=splunk&logoColor=white" alt="Threat Analysis" />
   <img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-6A0DAD?style=for-the-badge&logo=elastic&logoColor=white" alt="Cyber Threat Intelligence" />
   <img src="https://img.shields.io/badge/AI_Research-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Research" />
   <img src="https://img.shields.io/badge/LLM_Behavior_Analysis-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Behavior Analysis" />
+</div>
+
+### Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Open_Source_Development-339933?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Development" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
