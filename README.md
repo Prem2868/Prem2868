@@ -4,10 +4,7 @@
 </div>
 
 <div align="center">
-  <h2>Founder 🧑‍💻 PremLabs-Security</h2>
-  <a href="https://github.com/Prem2868">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=490&lines=Security+Researcher;Cyber+Threat+Analyst;Open+Source+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Founder+🧑‍💻+PremLabs-Security;Security+Researcher;Cyber+Threat+Analyst;Open+Source+Developer" alt="Animated Title" />
 </div>
 
 <div align="center">
@@ -17,13 +14,13 @@
 </div>
 
 <div align="center">
-  <a href="https://pramod-jogdand.pages.dev"><img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://prem2868.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/PSjogdand"><img src="https://img.shields.io/badge/X-00D4FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.quora.com/profile/Pramod-Jogdand-6"><img src="https://img.shields.io/badge/Quora-00D4FF?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
-  <a href="https://www.instagram.com/impramod"><img src="https://img.shields.io/badge/Instagram-00D4FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://orcid.org/0009-0009-1259-4495"><img src="https://img.shields.io/badge/ORCID-00D4FF?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://pramod-jogdand.pages.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://prem2868.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/PSjogdand"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.quora.com/profile/Pramod-Jogdand-6"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
+  <a href="https://www.instagram.com/impramod"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://orcid.org/0009-0009-1259-4495"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </div>
 
 ---
