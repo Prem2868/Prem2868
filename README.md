@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Founder+%40PremLabs" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Founder+%40PremLabs-Security;Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
 </div>
 
 
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-* 🔐 **Profession:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
+* 🔐 **Profession:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs-Security Security Lab
 * 🐧 **Expertise:** Linux Development & Power User
 * 🤖 **Focus:** Security Research & LLM Behavior Analysis
 * 🌐 **Community:** Google for Developers Member
