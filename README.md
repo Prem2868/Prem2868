@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternate=Georgia" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternative=JetBrainsMono" alt="Banner" />
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔬+Cybersecurity+Analyst+%26+AI+Security+Researcher;💻+Open+Source+Enthusiast;🚀+Building+MythosAI+v2" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Security+Researcher+%7C+Cyber+Threat+Analysis+%7C+Open+Source+Tools+%7C+Founder+%40PremLabs+Security+Lab" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,6 +18,7 @@
   <h2>👋 About Me</h2>
 </div>
 
+- **Bio:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
 - **Name:** Pramod Jogdand
 - **Location:** Pune, Maharashtra, India
 - **Profession:** Cybersecurity Analyst & AI Security Researcher
@@ -120,11 +121,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prem2868&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem2868&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem2868&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prem2868&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="48%" alt="Top Languages" />
 </p>
 
 <div align="center">
