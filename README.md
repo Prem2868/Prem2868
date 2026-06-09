@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Research+%26+Development+%40PremLabs-Security;Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
+  <img src="researcher_banner.png" alt="Pramod Jogdand - Security Researcher Banner" width="100%" />
 </div>
 
 
