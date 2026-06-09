@@ -1,7 +1,12 @@
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternative=JetBrainsMono" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <h2>Founder 🧑‍💻 PremLabs-Security</h2>
   <a href="https://github.com/Prem2868">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=490&lines=Pramod+Jogdand;Security+Researcher;Cyber+Threat+Analyst;Open+Source+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=490&lines=Security+Researcher;Cyber+Threat+Analyst;Open+Source+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -9,6 +14,16 @@
   <a href="https://github.com/Prem2868">
     <img src="https://komarev.com/ghpv/?username=Prem2868&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
   </a>
+</div>
+
+<div align="center">
+  <a href="https://pramod-jogdand.pages.dev"><img src="https://img.shields.io/badge/Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://prem2868.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/PSjogdand"><img src="https://img.shields.io/badge/X-00D4FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.quora.com/profile/Pramod-Jogdand-6"><img src="https://img.shields.io/badge/Quora-00D4FF?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
+  <a href="https://www.instagram.com/impramod"><img src="https://img.shields.io/badge/Instagram-00D4FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://orcid.org/0009-0009-1259-4495"><img src="https://img.shields.io/badge/ORCID-00D4FF?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </div>
 
 ---
@@ -20,21 +35,6 @@
 * 🤖 Focus: Security Research & LLM Behavior Analysis
 * 🌐 Google for Developers member
 * 📍 Location: Pune, Maharashtra, India
-
----
-
-## 🔗 Online Presence
-
-| Platform | Link |
-| --- | --- |
-| 🌐 Website | [https://pramod-jogdand.pages.dev](https://pramod-jogdand.pages.dev) |
-| 💼 Portfolio | [https://prem2868.github.io/portfolio/](https://prem2868.github.io/portfolio/) |
-| 💻 GitHub | [https://github.com/Prem2868](https://github.com/Prem2868) |
-| 💼 LinkedIn | [https://www.linkedin.com](https://www.linkedin.com) |
-| ✍️ Quora | [https://www.quora.com/profile/Pramod-Jogdand-6](https://www.quora.com/profile/Pramod-Jogdand-6) |
-| 📸 Instagram | [https://www.instagram.com/impramod](https://www.instagram.com/impramod) |
-| ❌ X (Twitter) | [https://x.com/PSjogdand](https://x.com/PSjogdand) |
-| 🔬 ORCID | [https://orcid.org/0009-0009-1259-4495](https://orcid.org/0009-0009-1259-4495) |
 
 ---
 
