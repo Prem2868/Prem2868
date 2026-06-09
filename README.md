@@ -1,11 +1,9 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=Pramod+Jogdand" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI+Systems+%26+Cyber+Threat+Analysis;Founder+%40Prem-labs+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
 </div>
 
-<div align="center">
-  <h1 style="color: #00D4FF; font-family: 'JetBrains Mono', monospace;">Founder 🧑‍💻 PremLabs-Security</h1>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Prem2868">
