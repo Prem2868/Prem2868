@@ -81,9 +81,14 @@
 
 ---
 
-## 🏢 Organizations
+## 🏢 Organization & Research Lab
 
-[PremLabs-Security GitHub Organization](https://github.com/PremLabs-Security)
+<div align="center">
+  <a href="https://github.com/PremLabs-Security">
+    <img src="https://img.shields.io/badge/PremLabs--Security-Organization-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="PremLabs-Security" />
+  </a>
+  <p><i>Founder & Lead Researcher at PremLabs-Security, focusing on advanced cybersecurity research and open-source tool development.</i></p>
+</div>
 
 ---
 
