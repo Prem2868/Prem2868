@@ -12,22 +12,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Security+Researcher+%7C+Cyber+Threat+Analysis+%7C+Open+Source+Tools+%7C+Founder+%40PremLabs+Security+Lab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Security+Researcher+%7C+Cyber+Threat+Analysis+%7C+Open+Source+Tools+%7C+Founder+%40PremLabs+Security+Lab" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <h2>👋 About Me</h2>
-</div>
+## 👋 About Me
 
-- **Bio:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
-- **Name:** Pramod Jogdand
-- **Location:** Pune, Maharashtra, India
-- **Profession:** Cybersecurity Analyst & AI Security Researcher
-- **Client Work:** Sophos
-- **Education:** BCA in Computer Security & Computer Forensics, D.Y. Patil College of Engineering, Pune (2017)
+- 🔐 Profession: Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs Security Lab
+- 🐧 Linux: Developer & Power User
+- 🤖 Focus: Security Research & LLM Behavior Analysis
+- 🌐 Google for Developers member
+- 📍 Location: Pune, Maharashtra, India
 
 ---
 
@@ -148,48 +145,18 @@
 
 ---
 
-<div align="center">
-  <h2>🤝 Connect</h2>
-</div>
+## 🔗 Online Presence
 
-<p align="center">
-  <a href="https://pramod-jogdand.pages.dev">
-    <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/Prem2868">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/PremLabs-Security">
-    <img src="https://img.shields.io/badge/PremLabs-Security-100000?style=for-the-badge&logo=github&logoColor=white" alt="PremLabs-Security" />
-  </a>
-  <a href="https://linkedin.com/in/pramod-jogdand-49a5b8292">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/PSjogdand">
-    <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://instagram.com/psjogdand">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/@pramodjogdand_">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://quora.com/profile/Pramod-Jogdand-6">
-    <img src="https://img.shields.io/badge/Quora_Profile-AA2200?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Profile" />
-  </a>
-  <a href="https://premlabssecurity.quora.com">
-    <img src="https://img.shields.io/badge/Quora_Space-AA2200?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Space" />
-  </a>
-  <a href="https://g.dev/pramodjogdand">
-    <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Dev" />
-  </a>
-  <a href="https://pramodjogdand1.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://prem2868.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [pramod-jogdand.pages.dev](https://pramod-jogdand.pages.dev) |
+| 💼 Portfolio | [prem2868.github.io/portfolio](https://prem2868.github.io/portfolio/) |
+| 💻 GitHub | [Prem2868](https://github.com/Prem2868) |
+| 💼 LinkedIn | [Pramod Jogdand](https://www.linkedin.com) |
+| ✍️ Quora | [Pramod Jogdand](https://www.quora.com/profile/Pramod-Jogdand-6) |
+| 📸 Instagram | [@impramod](https://www.instagram.com/impramod) |
+| ❌ X (Twitter) | [@PSjogdand](https://x.com/PSjogdand) |
+| 🔬 ORCID | [0009-0009-1259-4495](https://orcid.org/0009-0009-1259-4495) |
 
 ---
 
