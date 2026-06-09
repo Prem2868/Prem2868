@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Pramod%20Jogdand&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlternative=JetBrainsMono" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=60&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=Pramod+Jogdand" alt="Animated Banner" />
 </div>
 
 <div align="center">
