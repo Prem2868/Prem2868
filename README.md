@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Founder+%40PremLabs-Security;Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Pramod+Jogdand;Security+Researcher;AI%2FCyber+Threat+Analysis;Research+%26+Development+%40PremLabs-Security;Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Animated Banner" />
 </div>
 
 
@@ -25,17 +25,17 @@
 
 ## 👋 About Me
 
-* 🔐 **Profession:** Security Researcher | Cyber Threat Analysis | Open Source Tools | Founder @PremLabs-Security Security Lab
-* 🐧 **Expertise:** Linux Development & Power User
-* 🤖 **Focus:** Security Research & LLM Behavior Analysis
-* 🌐 **Community:** Google for Developers Member
+* 🔐 **Profession:** Dedicated Security Researcher specializing in Cyber Threat Analysis and Open Source Intelligence. Founder of @PremLabs-Security, a research-focused security lab.
+* 🐧 **Technical Expertise:** Proficient in Linux environments, system development, and advanced scripting.
+* 🤖 **Research Focus:** Deep dive into Security Research, AI/ML applications in cybersecurity, and LLM Behavior Analysis.
+* 🌐 **Community Engagement:** Active Google for Developers Member, contributing to the broader tech and security community.
 * 📍 **Location:** Pune, Maharashtra, India
 
 ---
 
 ## 🛠️ Skills
 
-### Programming Languages & Technologies
+### Core Technical Skills
 
 
 <div align="center">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   </div>
 
-### Cybersecurity & AI
+### Research & Cybersecurity Domains
 <div align="center">
 
   <img src="https://img.shields.io/badge/Network_Security-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/LLM_Behavior_Analysis-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Behavior Analysis" />
 </div>
 
-### Tools & Platforms
+### Development & Platform Tools
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
