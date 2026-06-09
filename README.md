@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔬+AI+%26+Cybersecurity+Researcher;💻+Open+Source+Enthusiast;🚀+Building+MythosAI+v2" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🔬+Cybersecurity+Analyst+%26+AI+Security+Researcher;💻+Open+Source+Enthusiast;🚀+Building+MythosAI+v2" alt="Typing Animation" />
   </a>
 </div>
 
@@ -18,10 +18,11 @@
   <h2>👋 About Me</h2>
 </div>
 
-- 📍 Based in Maharashtra, India  
-- 💻 Currently working on conducting AI research and researching Cybersecurity  
-- 🚀 Passionate about open source contributions  
-- 💡 Fun fact: I once debugged a complex network issue using only `ping` and `traceroute`!  
+- **Name:** Pramod Jogdand
+- **Location:** Pune, Maharashtra, India
+- **Profession:** Cybersecurity Analyst & AI Security Researcher
+- **Client Work:** Sophos
+- **Education:** BCA in Computer Security & Computer Forensics, D.Y. Patil College of Engineering, Pune (2017)
 
 ---
 
@@ -31,17 +32,85 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Network_Security-007ACC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/Threat_Analysis-FF6F00?style=for-the-badge&logo=splunk&logoColor=white" alt="Threat Analysis" />
+  <img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-6A0DAD?style=for-the-badge&logo=elastic&logoColor=white" alt="Cyber Threat Intelligence" />
+  <img src="https://img.shields.io/badge/AI_Research-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Research" />
+  <img src="https://img.shields.io/badge/LLM_Behavior_Analysis-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Behavior Analysis" />
+  <img src="https://img.shields.io/badge/Open_Source_Development-339933?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Development" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
+
+---
+
+<div align="center">
+  <h2>🚀 Projects</h2>
+</div>
+
+- 🤖 [MythosAI-CyberSec](https://github.com/Prem2868/MythosAI-CyberSec): AI security tool
+- 🌐 [Network Recon Toolkit](https://github.com/Prem2868/Network-Recon-Toolkit): Network reconnaissance tool
+- 🔍 [Web Vulnerability Scanner](https://github.com/Prem2868/Web-Vulnerability-Scanner): Tool for identifying web vulnerabilities
+- 🐧 [Linux Sysadmin Tools](https://github.com/Prem2868/Linux-Sysadmin-Tools): Collection of Linux system administration scripts
+- 🐍 [Python Automation Scripts](https://github.com/Prem2868/Python-Automation-Scripts): Scripts for various automation tasks
+- 📊 [AI-Powered Portfolio](https://github.com/Prem2868/AI-Powered-Portfolio): Portfolio showcasing AI projects
+- 🧪 [PremLabs Security Lab](https://github.com/PremLabs-Security/PremLabs-Security-Lab): Research and development lab for cybersecurity projects
+
+---
+
+<div align="center">
+  <h2>🏢 Organizations</h2>
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <a href="https://github.com/PremLabs-Security">
+    <img src="https://img.shields.io/badge/PremLabs--Security-100000?style=for-the-badge&logo=github&logoColor=white" alt="PremLabs-Security GitHub Organization" />
+  </a>
 </p>
+
+---
+
+<div align="center">
+  <h2>🎯 2026 Goals</h2>
+</div>
+
+- ✅ Build AI cybersecurity assistant
+- ✅ Launch personal research portfolio
+- ✅ Publish open source security toolkit
+- ⬜ Publish formal research on LLM behavior
+- ⬜ Build automated cyber threat detection
+- ⬜ Release MythosAI-CyberSec v1.0
+- ⬜ Contribute peer-reviewed research
+- ⬜ Collaborate with security researchers
+
+---
+
+<div align="center">
+  <h2>⚡ Currently Working On</h2>
+</div>
+
+- 🏗️ **Building MythosAI v2** - Advanced cybersecurity AI with enhanced threat detection capabilities
+- 📚 **Learning Gemini API** - Exploring advanced LLM capabilities for security research  
+- 📅 **Daily Commits Challenge** - Maintaining consistent contributions to open source projects
+- ✍️ **Writing on Quora about Cybersecurity** - Sharing insights and knowledge on cybersecurity topics
+
+---
+
+<div align="center">
+  <h2>🌟 Latest Activity</h2>
+</div>
+
+- ✍️ **Writing on Quora** - Sharing insights about AI, Cybersecurity, and emerging security threats
+- 🔬 **Researching LLM Behavior Patterns** - Analyzing how large language models respond to adversarial prompts  
+- 🛠️ **Contributing to Open Source Security Tools** - Helping secure the developer community through code contributions
 
 ---
 
@@ -75,90 +144,6 @@
 ---
 
 <div align="center">
-  <h2>🚀 Projects</h2>
-</div>
-
-- 🤖 [MythosAI-CyberSec](https://github.com/Prem2868/MythosAI-CyberSec): Cybersecurity AI tool  
-- 🌐 [portfolio](https://github.com/Prem2868/portfolio): AI-powered portfolio with terminal UI  
-- 🔍 [network-recon-toolkit](https://github.com/Prem2868/network-recon-toolkit): Network reconnaissance tool  
-
----
-
-<div align="center">
-  <h2>📚 Research Interests</h2>
-</div>
-
-- Large Language Model Behavior Analysis
-- Cyber Threat Pattern Detection
-- Network Traffic Anomaly Research
-- Intelligent Automation Systems
-- Linux Security Hardening
-
----
-
-<div align="center">
-  <h2>🎯 2026 Research Goals</h2>
-</div>
-
-- [x] Build AI-powered cybersecurity assistant
-- [x] Launch personal research portfolio
-- [x] Publish open source security toolkit
-- [ ] Publish formal research findings on LLM behavior
-- [ ] Contribute peer-reviewed research to open source
-- [ ] Build automated cyber threat detection system
-- [ ] Release v1.0 of MythosAI-CyberSec
-- [ ] Collaborate with other security researchers
-
----
-
-<div align="center">
-  <h2>⚡ Currently Working On</h2>
-</div>
-
-- 🏗️ **Building MythosAI v2** - Advanced cybersecurity AI with enhanced threat detection capabilities
-- 📚 **Learning Gemini API** - Exploring advanced LLM capabilities for security research  
-- 📅 **Daily Commits Challenge** - Maintaining consistent contributions to open source projects
-
----
-
-<div align="center">
-  <h2>📈 2026 Goals Progress</h2>
-</div>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      
-✅ Build AI cybersecurity assistant
-
-✅ Launch personal research portfolio
-
-✅ Publish open source security toolkit
-    </td>
-    <td width="50%">
-      
-⏳ Publish formal research on LLM behavior
-
-⏳ Build automated cyber threat detection
-
-⏳ Release MythosAI v1.0
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2>🌟 Latest Activity</h2>
-</div>
-
-- ✍️ **Writing on Quora** - Sharing insights about AI, Cybersecurity, and emerging security threats
-- 🔬 **Researching LLM Behavior Patterns** - Analyzing how large language models respond to adversarial prompts  
-- 🛠️ **Contributing to Open Source Security Tools** - Helping secure the developer community through code contributions
-
----
-
-<div align="center">
   <h2>🤝 Connect</h2>
 </div>
 
@@ -166,14 +151,38 @@
   <a href="https://pramod-jogdand.pages.dev">
     <img src="https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
+  <a href="https://github.com/Prem2868">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/PremLabs-Security">
+    <img src="https://img.shields.io/badge/PremLabs-Security-100000?style=for-the-badge&logo=github&logoColor=white" alt="PremLabs-Security" />
+  </a>
   <a href="https://linkedin.com/in/pramod-jogdand-49a5b8292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://orcid.org/0009-0009-1259-4495">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  <a href="https://x.com/PSjogdand">
+    <img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="https://github.com/Prem2868">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://instagram.com/psjogdand">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://youtube.com/@pramodjogdand_">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://quora.com/profile/Pramod-Jogdand-6">
+    <img src="https://img.shields.io/badge/Quora_Profile-AA2200?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Profile" />
+  </a>
+  <a href="https://premlabssecurity.quora.com">
+    <img src="https://img.shields.io/badge/Quora_Space-AA2200?style=for-the-badge&logo=quora&logoColor=white" alt="Quora Space" />
+  </a>
+  <a href="https://g.dev/pramodjogdand">
+    <img src="https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Dev" />
+  </a>
+  <a href="https://pramodjogdand1.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://prem2868.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
