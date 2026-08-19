@@ -14,10 +14,10 @@
 <div align="center">
   <a href="https://pramod-jogdand.pages.dev"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://prem2868.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pramod-jogdand-49a5b829"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/PSjogdand"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.quora.com/profile/Pramod-Jogdand-6"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
-  <a href="https://www.instagram.com/impramod"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/psjogdand"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://orcid.org/0009-0009-1259-4495"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </div>
 
@@ -25,10 +25,10 @@
 
 ## 👋 About Me
 
-* 🔐 **Profession:** Dedicated Security Researcher specializing in Cyber Threat Analysis and Open Source Intelligence. Founder of @PremLabs-Security, a research-focused security lab.
-* 🐧 **Technical Expertise:** Proficient in Linux environments, system development, and advanced scripting.
-* 🤖 **Research Focus:** Deep dive into Security Research, AI/ML applications in cybersecurity, and LLM Behavior Analysis.
-* 🌐 **Community Engagement:** Active Google for Developers Member, contributing to the broader tech and security community.
+* 🔐 **Focus:** Cybersecurity research, AI/LLM security, threat detection, MCP security, and defensive tooling.
+* 🛠️ **Builder:** Creating open-source Python tools and research prototypes for practical cyber defense.
+* 🧪 **Flagship work:** MCPSentinel, LLM Security Scanner, AI Threat Detector, and network-security tooling.
+* 🏢 **Founder:** PremLabs Security, an independent AI-security and cybersecurity research lab.
 * 📍 **Location:** Pune, Maharashtra, India
 
 ---
@@ -71,13 +71,12 @@
 
 ## 🚀 Projects
 
-* 🤖 [MythosAI-CyberSec](https://github.com/Prem2868/MythosAI-CyberSec) : AI security tool
-* 🌐 [Network Recon Toolkit](https://github.com/Prem2868/Network-Recon-Toolkit) : Network reconnaissance tool
-* 🔍 [Web Vulnerability Scanner](https://github.com/Prem2868/Web-Vulnerability-Scanner) : Tool for identifying web vulnerabilities
-* 🐧 [Linux Sysadmin Tools](https://github.com/Prem2868/Linux-Sysadmin-Tools) : Collection of Linux system administration scripts
-* 🐍 [Python Automation Scripts](https://github.com/Prem2868/Python-Automation-Scripts) : Scripts for various automation tasks
-* 📊 [AI-Powered Portfolio](https://github.com/Prem2868/AI-Powered-Portfolio) : Portfolio showcasing AI projects
-* 🧪 [PremLabs Security Lab](https://github.com/PremLabs-Security/PremLabs-Security-Lab) : Research and development lab for cybersecurity projects
+* 🛡️ [MCPSentinel](https://github.com/PremLabs-Security/MCPSentinel) : Detects exposed or unauthenticated MCP endpoints and Ollama servers.
+* 🧠 [LLM Security Scanner](https://github.com/PremLabs-Security/llm-security-scanner) : Scans prompts for injection, jailbreak, and other LLM-security risks.
+* 🔍 [AI Threat Detector](https://github.com/PremLabs-Security/ai-threat-detector) : Research prototype for anomaly detection and threat classification.
+* 🌐 [AI-Driven Attack Simulation](https://github.com/PremLabs-Security/ai-driven-attack-sim) : Defensive lab research for understanding AI-assisted attack patterns.
+* 🛰️ [Network Recon Toolkit](https://github.com/Prem2868/network-recon-toolkit) : Network reconnaissance and security analysis toolkit.
+* 🧪 [PremLabs Security](https://github.com/PremLabs-Security) : Open-source AI-security and cybersecurity research organization.
 
 ---
 
@@ -87,7 +86,7 @@
   <a href="https://github.com/PremLabs-Security">
     <img src="https://img.shields.io/badge/PremLabs--Security-Organization-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="PremLabs-Security" />
   </a>
-  <p><i>Founder & Lead Researcher at PremLabs-Security, focusing on advanced cybersecurity research and open-source tool development.</i></p>
+  <p><i>Founder of PremLabs Security, building open-source AI-security and cybersecurity research tools with an emphasis on defensive use and responsible disclosure.</i></p>
 </div>
 
 ---
